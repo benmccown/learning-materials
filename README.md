@@ -43,6 +43,7 @@ I highly recommend finding a topic you're interested in and learning that. Picki
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) is an excellent book which gives you a glimpse into the interview styles for major tech companies. This book also covers all of the data structures required to pass an interview with flying colors. Also findable as a PDF online.
 - [LeetCode](https://leetcode.com/) is a website that allows you to practice data structures interview questions using a live code editor. On average you will be prepared for first rounds after college if you cover around 100-200 questions so that you can establish pattern recognition. This sounds like a lot but if you do 3 a day it is only a few months of consistent work.
 - [NeetCode YouTube Channel](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g) is a great resource that covers Leetcode questions and their optimal answers. Try finding questions on LeetCode that NeetCode covers and when you get stuck, watch the video.
+- [Blind 75 LeetCode List](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) is a good list to work off of that covers all the major data structures you'll need to know.
 
 ## Misc
 
